@@ -1,6 +1,6 @@
 # 12-columns-Wireframing-Kit
 
-![https://mir-s3-cdn-cf.behance.net/project_modules/1400/66d59c38566237.5766fc3541452.jpg]
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/66d59c38566237.5766fc3541452.jpg">
 
 
 ##description
